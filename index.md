@@ -1,11 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to MeriKaya
 
-You can use the [editor on GitHub](https://github.com/ankittomarai/merikaya/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is the project we are doing as part of our M.Tech -Data Sciennce Program with BITS Pilani. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Motivation:
+There are millions people who are losing their life with treatable and preventable diseases. These lives could have been saved if medicine was given on time. 
 
-### Markdown
+###. Vision
+"Enable people to become vigilant of preventable diseases"
 
+
+### About Us 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
